@@ -1,0 +1,226 @@
+
+#fff{
+    margin-left: 70px;
+    background-color: blue;
+    color: azure;
+}
+
+.navme{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    }
+.text{
+
+    text-decoration: none;
+    font-size: .9375rem;
+    font-weight: 400%;
+
+}
+header{
+    position: sticky;
+    top: 0;
+}
+
+
+.aq{
+    display: flex;
+    width: 166%%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 750px;
+    
+}
+.maa{
+    display:flex;
+    margin-left: 230px;
+    font-size: 25px;
+    color: aquamarine;
+    margin-right: 60px;
+    
+}
+.aqwx{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.aziz{
+    justify-content: space-around;
+    display: flex;
+    margin-left: 250px;
+    background-color: aquamarine;
+    margin-right: 163px;
+}
+
+.ak{
+    background-color: aliceblue;
+    width: 240px;
+    height: 240px;
+    text-align: center;
+    margin-top: -98px;
+
+}
+
+.hjk{ 
+    width: 46%;
+    display: flex;
+    flex-wrap: wrap;
+    background: aquamarine;
+    border-radius: 5px;
+    padding: 15px;
+    justify-content: space-around;
+}
+.as{
+    height: 250px;
+    width: 250px;
+    background-color:aliceblue;
+    text-align:center;
+    margin-top: 81px;
+    border-radius: 18px;
+}
+
+ 
+
+.wxc{
+   margin-top: 100px;
+}
+.nbv{
+    display: flex;
+}
+.nbv{
+    background-color: aquamarine;
+}
+.ak{
+    background-color:aliceblue;
+    width: 240px;
+    height: 240px;
+    text-align: center;
+    margin-top: 18px;
+    border-radius: 18px;
+}
+
+.nn{
+    display: flex;
+    justify-content: space-around;
+}
+.nav{
+    width: 250px;
+  
+    display: flex;
+    justify-content: space-around;
+    margin-right: 190px;
+    list-style: none;
+}
+.logo-css{
+    margin-left: 230px;
+    width: 250px;
+}
+.nnn{
+    display: flex;
+    justify-content: space-around;
+    width: 71%;
+}
+
+.css-aa{
+    margin-left: 100px;
+    width: 50px;
+    height: 50px;
+}
+.money{
+    margin-left: 670px;
+}
+.may{
+    text-align: center;
+}
+.projects{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.az{
+    color: white;
+    font-size: 25px;
+    
+    background-color: aquamarine;
+    border-radius: 9px;
+   
+    width: 332px;
+    height: 365PX;
+    /* margin-left: 90px; */
+     }
+.az p{
+    margin-left: 25px;
+}
+.az h1{
+    margin-left: 25px;
+
+}
+.ae{
+    color: white;
+    font-size: 25px;
+    background-color:rgb(0, 98, 255);
+    border-radius: 9px;
+    height: 365PX;
+    width: 332px;
+    /* margin-left: 90px; */
+     }
+.ae p{
+    margin-left: 25px;
+}
+.ae h1{
+    margin-left: 25px;
+}
+.ar{
+    color: white;
+    font-size: 25px;
+    background-color:#1b2734;
+    border-radius: 9px;
+    height: 365PX;
+    width: 332px;
+    /* margin-left: 90px; */
+     }
+.ar p{
+    margin-left: 25px;
+}
+.ar h1{
+    margin-left: 25px;
+}
+.city{
+    text-align: center;
+}
+.mor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.aaaa{
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sotp p{
+  
+    text-align: center;
+}
+.sotp h2{
+    color: aquamarine;
+    text-align: center;
+}
+.may h1{
+    color:aquamarine;
+}
+.money h1{
+    text-align: center;
+    color: aquamarine;
+}
+#xxx{
+    color:azure;
+    display: flex;
+    background-color:blue;
+}
