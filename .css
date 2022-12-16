@@ -4,7 +4,10 @@
     background-color: blue;
     color: azure;
 }
-
+.nav:hover{
+    
+    color:rgb(14, 73, 14);
+}
 .navme{
     display: flex;
     justify-content: space-between;
@@ -48,25 +51,37 @@ header{
 .aziz{
     justify-content: space-around;
     display: flex;
-    margin-left: 250px;
-    background-color: aquamarine;
-    margin-right: 163px;
+   
+    background-color:rgb(103, 232, 232);
+  
 }
-
+.wxc h1{
+    margin-left: 132px;
+    color: rgb(45 162 129);;
+    font-size: 40px;
+}
+.wxc p{
+    margin-left: 131px;
+}
 .ak{
     background-color: aliceblue;
     width: 240px;
     height: 240px;
     text-align: center;
     margin-top: -98px;
-
+    border-radius: 9px;
+    margin-right: 166px;
+}
+.vc:hover{
+    color: blue;
+    background-color: blanchedalmond;
 }
 
 .hjk{ 
     width: 46%;
     display: flex;
     flex-wrap: wrap;
-    background: aquamarine;
+    background:rgb(103, 232, 232);
     border-radius: 5px;
     padding: 15px;
     justify-content: space-around;
@@ -78,6 +93,7 @@ header{
     text-align:center;
     margin-top: 81px;
     border-radius: 18px;
+
 }
 
  
@@ -101,6 +117,8 @@ header{
 }
 
 .nn{
+    height: 429px;
+
     display: flex;
     justify-content: space-around;
 }
@@ -134,6 +152,9 @@ header{
     text-align: center;
 }
 .projects{
+    
+
+    height: 220px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -199,10 +220,18 @@ header{
 }
 
 .aaaa{
-    padding: 3%;
+    padding: 45px;
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+.aaaa:hover{
+    background-color:aliceblue;
+    color:blue;
+}
+.pb{
+    display: flex;
+    justify-content: space-around;
 }
 .sotp p{
   
